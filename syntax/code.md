@@ -1,39 +1,39 @@
-# Les blocs de code
+# Bloków kodu
 
-Les blocs de codes pré-formatés sont utlisés pour écrire sur la programmation ou surligner un code source. Plus que de simple pragraphe, les lignes de code d'un bloc de code sont litterallement interprétées.
+wstępnie sformatowany bloki kodu są Zagrano napisać lub podświetlić kod programu. Więcej niż proste pragraphe, linie kodu bloku kodu są interpretowane dosłownie.
 
-Voici un exemple :
+Oto przykład:
 
-```
-Ceci est un bloc de code 
-```
+`` `
+To jest blok kodu
+`` `
 
-Afin de créer un bloc de code en Markdown, il suffit d'identer chaque ligne du bloc avec au moins 4 espaces ou une tabulation.
+Aby utworzyć blok kodu w promocji cenowych, wystarczy identer każdy wiersz bloku z co najmniej 4 spacji lub karty.
 
-Par exemple :
+Na przykład:
 
-```
-Ceci est un paragraphe normal:
+`` `
+To jest akapit normalne:
 
-    Ceci est un bloc de code. 
-```
+     Jest to blok kodu.
+`` `
 
-Vous pouvez également créer un bloc de code separé avec:
+Można również utworzyć oddzielną blok kodu z:
 
-    ```
+     `` `
 
-### Bloc de code en ligne
+### Blok kodu w Internecie
 
-Les blocs de code en ligne peuvent être écrit en utilisant: `
+Bloki Online kodu mogą być zapisywane za pomocą `
 
-Par exemple:
+Na przykład:
 
-    Ceci est `un bloc de code en ligne`
+     `To jest blok kodu w ligne`
 
-### La syntaxe de mise en avant 
+### Składnię nacisk
 
-Vous pouvez definir le langage utlisé pour mettre en évidence la syntaxe en ajoutant un nom sur un mot clé ouvrant. Exemple : 
+Można zdefiniować język utlise aby podświetlić składnię dodając nazwę na otwarciu kluczowego. przykład:
 
-    ```js
-    var a = {};
-    ```
+     `` `Js
+     var a = {};
+     `` `
